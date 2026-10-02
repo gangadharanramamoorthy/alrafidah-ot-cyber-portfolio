@@ -1,0 +1,9 @@
+# Never commit secrets or big binaries
+*.xml
+*.key
+*.pem
+id_ed25519*
+*.ova
+*.vdi
+*.pcap
+*.pcapng
