@@ -1,0 +1,7 @@
+2026-10-11T16:38:57+05:30 fw-alrafidah-01.ot.local audit[80888]: user root failed authentication for login on OPNsense\Auth\Services\System via OPNsense\Auth\Local
+2026-10-11T16:38:57+05:30 fw-alrafidah-01.ot.local audit[80888]: user root could not authenticate for login. [using OPNsense\Auth\Services\System + OPNsense\Auth\Local]
+2026-10-11T16:39:34+05:30 fw-alrafidah-01.ot.local audit[2856]: user root failed authentication for login on OPNsense\Auth\Services\System via OPNsense\Auth\Local
+2026-10-11T16:39:34+05:30 fw-alrafidah-01.ot.local audit[2856]: user root could not authenticate for login. [using OPNsense\Auth\Services\System + OPNsense\Auth\Local]
+2026-10-11T16:39:42+05:30 fw-alrafidah-01.ot.local audit[3809]: user root authenticated successfully for login [using OPNsense\Auth\Services\System + OPNsense\Auth\Local]
+2026-10-11T16:39:42+05:30 fw-alrafidah-01.ot.local login[41060]: login on ttyv0 as root
+2026-10-11T16:39:42+05:30 fw-alrafidah-01.ot.local login[41060]: ROOT LOGIN (root) ON ttyv0
